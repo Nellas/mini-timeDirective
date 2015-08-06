@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    background: black;
+}
+
+.main-container {
+    margin: 18% auto;
+    text-align: center;
+}
+
+.welcome {
+    color: blue;
+    margin-bottom: 0;
+    font-size: 70px;
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    font-weight: 100;
+    text-align: center;
+}
